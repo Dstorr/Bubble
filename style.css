@@ -1,0 +1,62 @@
+body {
+    background-color: aqua;
+}
+
+.profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+
+    border-radius: 50%;
+}
+
+.profile-name {
+    text-align: center;
+    padding: 5%;
+    font-size: 20px;
+}
+
+
+
+button {
+    background-color: black;
+    color: white;
+    border: solid;
+    border-color: white;
+    padding: 4%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1%;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border: solid;
+    border-color: black;
+}
+
+
+div a{
+    color: white;
+
+}
+
+div a:hover {
+    color: black;
+}
+
+img {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;
+    width: 100%;
+    margin-left: 11.5%;
+    margin-top: 6%; 
+}
